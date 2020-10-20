@@ -1,11 +1,15 @@
 # Mirador React App
 ## About
 This repository is a guide for newbies like myself on setting up a functional React App that uses [Mirador](https://github.com/ProjectMirador/mirador) in combination with some plugins, the target being
-[this](https://github.com/ProjectMirador/mirador-dl-plugin) plugin to enable Downloads in Mirador 3.  
+[this](https://github.com/ProjectMirador/mirador-dl-plugin) plugin to enable downloads in Mirador 3.  
 
-So far this project is mainly based on Approach 2 from [here](https://github.com/ProjectMirador/mirador/wiki/M3-Embedding-in-Another-Environment).  
+So far this project is mainly based on approach 2 from [here](https://github.com/ProjectMirador/mirador/wiki/M3-Embedding-in-Another-Environment).  
 
 This project is currently **under construction** and there is no guarantee for it to work. And I apologize for any amateurish or unconventional methods, I'm very new to all of this.
+
+## Prerequisites
+[Nodejs](https://nodejs.org/en/download/) needs to be installed on your machine. For further reference, I am running all this on Ubuntu 20.04, if anyone is interested.
+
 ## Setup
 1. On your command line, do `npx create react-app my-mirador` to initialise the react app as _my-mirador_.
 2. Go into that folder, so `cd my-mirador`.
