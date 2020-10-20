@@ -15,8 +15,8 @@ This project is currently **under construction** and there is no guarantee for i
   * `npm install --save redux`
   * `npm install --save blueprintjs/core`
   * `npm install --save blueprintjs/icons`
+  The last two are actually optional, but there will be compiler warnings if you omit them (at least in my case it was like that).  
   
- The last two are actually optional, but there will be compiler warnings if you omit them (at least in my case it was like that).
 4. Delete all the files inside the `my-mirador/src` folder and put the `index.js` file from this repository inside it.
 5. In the `my-mirador/public` folder, exchange the previous `index.html` file with the `index.html` file from this repository.
 6. Type `npm start` on the command line, when you are inside the `my-mirador` folder.
