@@ -22,15 +22,13 @@ This project is currently **under construction** and there is no guarantee for i
   
   The last two are actually optional, but there will be compiler warnings if you omit them (at least in my case it was like that).  
   
-4. Delete all the files inside the `my-mirador/src` folder and put the `index.js` file from this repository inside it.
+4. Exchange all generated files inside the `my-mirador/src` with the files that are in the `my-mirador/src` folder of this repository.  
 5. In the `my-mirador/public` folder, exchange the previous `index.html` file with the `index.html` file from this repository.
 6. Type `npm start` on the command line, when you are inside the `my-mirador` folder.
 The Mirador 3 interface should now appear in your browser on `localhost:3000`.
-## Handling the interface
-Currently, you can add links to iiif-json files (e.g. `https://iiif.bodleian.ox.ac.uk/iiif/manifest/faeff7fb-f8a7-44b5-95ed-cff9a9ffd198.json`) manually through the interface by clicking on 
-'ADD RESOURCE' in the bottom right corner, pasting the link in the appearing prompt and then clicking on 'add'.
+
 ## Future working targets
-1. Opening an existing React-Mirador application with some windows to IIIF already open (so that they don't have to be added manually).
-2. Integrating the download plugin to the interface
+1. Add resources properly (right now, nothing is displayed when you select *IMPORT WORKSPACE* and enter a link to a manifest.
+2. Integrate my Python script
 
  
