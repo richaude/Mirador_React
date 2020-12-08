@@ -28,7 +28,7 @@ This project is currently **under construction** and there is no guarantee for i
 The Mirador 3 interface should now appear in your browser on `localhost:3000`.
 
 ## Future working targets
-1. Add resources properly (right now, nothing is displayed when you select *IMPORT WORKSPACE* and enter a link to a manifest.
+1. Add resources properly (right now, nothing is displayed when you select *IMPORT WORKSPACE* and enter a link to a manifest).
 2. Integrate my Python script
 
  
