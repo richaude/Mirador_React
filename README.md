@@ -11,7 +11,7 @@ This project is currently **under construction** and there is no guarantee for i
 [Nodejs](https://nodejs.org/en/download/) needs to be installed on your machine. For further reference, I am running all this on Ubuntu 20.04, if anyone is interested.
 
 ## Setup
-1. On your command line, do `npx create react-app my-mirador` to initialise the react app as _my-mirador_.
+1. On your command line, do `npx create-react-app my-mirador` to initialise the react app as _my-mirador_.
 2. Go into that folder, so `cd my-mirador`.
 3. Install all the dependencies:
   * `npm install mirador@rc`
