@@ -8,7 +8,7 @@ So far this project is mainly based on approach 2 from [here](https://github.com
 This project is currently **under construction** and there is no guarantee for it to work. And I apologize for any amateurish or unconventional methods, I'm very new to all of this.
 
 ## Prerequisites
-[Nodejs](https://nodejs.org/en/download/) needs to be installed on your machine. For further reference, I am running all this on Ubuntu 20.04, if anyone is interested.
+[Nodejs](https://nodejs.org/en/download/) needs to be installed on your machine. For further reference, I am running all this on Ubuntu 20.04, if anyone is interested. For a neutral environment, you can create a virtual environment with `virtualenv myvenv`, do `cd myvenv` and then activate it with `source bin/activate`. Then you can proceed normally without interfering with the dependencies on your system.
 
 ## Setup
 1. On your command line, do `npx create-react-app my-mirador` to initialise the react app as _my-mirador_.
