@@ -15,8 +15,6 @@ This project is currently **under construction** and there is no guarantee for i
 2. Go into that folder, so `cd my-mirador`.
 3. Install all the dependencies:
   * `npm install mirador@rc`
-  * `npm install react-redux`
-  * `npm install --save redux`
   * `npm install --save blueprintjs/core`
   * `npm install --save blueprintjs/icons` 
   
